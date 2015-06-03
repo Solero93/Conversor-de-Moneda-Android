@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppDivises</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="lbl_eur">EUR:</string>
+    <string name="lbl_usd">USD:</string>
+    <string name="lbl_rate">Exchange Rate:</string>
+    <string name="lbl_eur_to_usd">EUR -\> USD</string>
+    <string name="lbl_usd_to_eur">USD -\> EUR</string>
+    <string name="lbl_commission">Commission &#37;:</string>
+    <string name="lbl_convert">Convert!</string>
+    <string name="error_convert">Cannot Convert. Parametres are missing or are invalid.</string>
+
+
+</resources>
